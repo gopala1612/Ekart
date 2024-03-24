@@ -9,8 +9,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 @SpringBootTest
 public class ShoppingCartApplicationTests {
 
-	@Test
+	@Tests
 	public void contextLoads() {
 	}
-
 }
